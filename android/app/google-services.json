@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231375212004",
+    "project_id": "test-520f7",
+    "storage_bucket": "test-520f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231375212004:android:5c8b1854015b14af250bf1",
+        "android_client_info": {
+          "package_name": "com.example.previous_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8fPNz0cG1dW7Uqt6gjzB-NjkuQAg6Vvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
